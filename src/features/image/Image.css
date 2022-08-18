@@ -1,0 +1,13 @@
+.imageWrapper {
+    width: fit-content !important;
+    height: fit-content !important;
+    border-radius: 6px !important;
+}
+
+.image {
+    width: 280px !important; /*240, 135*/
+    height: 200px !important;
+    outline: none !important;
+    border: none !important;
+    border-radius: 6px !important;
+}
