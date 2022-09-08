@@ -5,7 +5,7 @@
 
 ### To run on local server
 ```
-git clone https://github.com/Eessh/react-redux-image-search-app.git
+git clone https://github.com/jayaram-sunkara/Image-Search-App.git
 cd react-redux-image-search-app
 npm install
 npm start
